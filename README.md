@@ -3,12 +3,12 @@
 # Login Cuti 
 url: http://103.102.152.227/
 
-# SUPERADMIN
+SUPERADMIN
 faisyalnur04@gmail.com
 superadmin
 
 
-# ADMIN VERIFIKASI
+ADMIN VERIFIKASI
 syalpratamaa@gmail.com
 admin123
 
@@ -19,7 +19,7 @@ admin123
 0292827771878
 
 
-# MEMBER
+MEMBER
 Alex
 member1@gmail.com
 member123
